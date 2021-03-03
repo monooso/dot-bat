@@ -20,3 +20,6 @@
 #   Example 2: Use ".gitignore"-style highlighting for ".ignore" files
 #--map-syntax "*.ino:C++"
 --map-syntax ".ignore:Git Ignore"
+
+# Expand tabs to two spaces
+--tabs=2
